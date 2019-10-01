@@ -1,8 +1,8 @@
 # Hello-World
 
 ## Authors
-- [Owino Lawrence](https://github.com/owinolawrence/hello-world.git)
-- Add your clickable username here. It should point to your GitHub account. 
+- [Owino Lawrence]
+- (https://github.com/owinolawrence/hello-world.git) 
 
 ## Project setup instructions
 To start using this project use the following commands:
